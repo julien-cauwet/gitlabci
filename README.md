@@ -1,2 +1,2 @@
 # gitlabci
-gitlab ci test
+gitlab ci test2
